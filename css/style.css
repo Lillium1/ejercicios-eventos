@@ -1,0 +1,29 @@
+* {
+	font-family: 'Carter One', cursive;
+}
+
+body {
+	background-image: url(../img/mac-HD.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;  
+}
+
+h1 {
+	text-align: center;
+	color: whitesmoke;
+	font-size: 3em;
+	padding-top: 100px;
+}
+
+.contenedor {
+	text-align: center;
+ 	margin-bottom: 10px;
+ 	padding-top: 180px;
+    display: block;
+    position: relative;
+}
